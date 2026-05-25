@@ -1,5 +1,7 @@
 # TensorWave Customer Retention Analysis
 
+> **What this is:** a public-data analysis of why TensorWave wins on memory-per-dollar — and which customers are most likely to churn when Nvidia supply normalizes.
+
 Independent analysis of TensorWave's competitive positioning and customer retention challenges in the AI infrastructure market. Built for the May 2026 Las Vegas AI Builders meetup.
 
 ## Key Findings
