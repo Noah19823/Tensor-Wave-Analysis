@@ -2,3 +2,6 @@
 __pycache__/
 *.pyc
 .DS_Store
+
+# Personal meetup prep — kept local, not for the public repo
+MEETUP_CHEATSHEET.md
