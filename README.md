@@ -4,6 +4,8 @@
 
 Independent analysis of TensorWave's competitive positioning and customer retention challenges in the AI infrastructure market. Built for the May 2026 Las Vegas AI Builders meetup.
 
+> **v2 is in progress** — rebuilt around workload-capability fit (not pricing) and the June 2026 Series B. See [`tensorwave_v2/`](tensorwave_v2/). v1 (below) remains the pricing/memory-per-dollar foundation.
+
 ## Key Findings
 
 1. TensorWave offers 8.6x more memory per dollar than CoreWeave (5.7x vs Lambda Labs)
