@@ -1,9 +1,6 @@
 # Open Questions — Cells Flagged for Internal Verification
 
-These are inferences drawn from public data. They are flagged explicitly so the
-TensorWave team can confirm or correct rather than excavate. Bringing these as a
-working draft — not a finished claim — is the point.
-
+These are inferences drawn from public data.
 ## Highest priority
 
 1. **Is Row 5 (Standard LLM Inference) a real, populated segment?**
